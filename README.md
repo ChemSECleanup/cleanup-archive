@@ -6,7 +6,7 @@ Inquire in the [Spring Cleaning](http://chat.stackexchange.com/rooms/55978/sprin
 When posting content for archive, please:
 
  * Format with MarkDown to match the original content to the extent possible (GitHub's flavor is somewhat different from Stack Exchange's)
- * Name your file as `postid - description.md` for easier searching
+ * Name your file as `postid - description.md` for easier searching, both here and on Chem.SE
  * Commit to the root repository folder, on the `master` branch
 
 All content posted in this repository retains the CC-BY-SA license of Stack Exchange itself.
